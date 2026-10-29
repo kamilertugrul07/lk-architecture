@@ -370,6 +370,35 @@ html.is-entering .doors {
   .c-closing .c-closing__detail { max-width: 78%; margin-left: auto; }
 }
 
+/* ───────────────────────── LOCAL PAGES (Genève, Pays de Gex) ───────────────────────── */
+.local-area {
+  display: grid; grid-template-columns: 1fr; gap: 40px;
+  padding-bottom: var(--section);
+}
+.local-area__label { margin: 0 0 18px; color: var(--ink-soft); }
+.local-area .rule { width: 46px; }
+.local-area h2 {
+  margin: 28px 0 0; font-weight: 400; color: var(--burgundy);
+  font-size: clamp(32px, 3vw, 44px); line-height: 1.1; letter-spacing: -.005em;
+}
+.local-area__body { display: flex; flex-direction: column; align-items: flex-start; gap: 28px; }
+.local-area__places { margin: 0; font-size: 14px; line-height: 2.3; letter-spacing: .2em; text-transform: uppercase; color: var(--ink); }
+.local-area__places span { white-space: nowrap; }
+.local-area__note { margin: 0; color: var(--ink-soft); }
+.local-area__note a, .local-area__cta {
+  background: linear-gradient(var(--burgundy), var(--burgundy)) 0 100% / 100% 1px no-repeat;
+  transition: color .3s, background-size .6s var(--ease);
+}
+.local-area__note a:hover, .local-area__note a:focus-visible { color: var(--burgundy); }
+.local-area__cta { color: var(--burgundy); font-size: clamp(20px, 1.6vw, 24px); background-size: 0 1px; }
+.local-area__cta:hover, .local-area__cta:focus-visible { background-size: 100% 1px; }
+.local-area__cta:hover .arrow, .local-area__cta:focus-visible .arrow { transform: translateX(6px); }
+
+@media (min-width: 900px) {
+  .local-area { grid-template-columns: 5fr 7fr; gap: clamp(40px, 6vw, 96px); }
+  .local-area__body { padding-top: 4px; }
+}
+
 /* ───────────────────────── FOOTER ───────────────────────── */
 .site-footer {
   border-top: 1px solid var(--line);
