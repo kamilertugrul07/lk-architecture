@@ -336,6 +336,8 @@ html.is-entering .doors {
 .detail a, .detail__places { font-size: clamp(19px, 1.45vw, 22px); color: var(--ink); }
 .detail a { background: linear-gradient(var(--burgundy), var(--burgundy)) 0 100% / 0 1px no-repeat; transition: background-size .6s var(--ease), color .3s; overflow-wrap: anywhere; }
 .detail a:hover, .detail a:focus-visible { color: var(--burgundy); background-size: 100% 1px; }
+.detail a.detail__wa { margin-top: 16px; font-size: 13px; letter-spacing: .28em; text-transform: uppercase; color: var(--burgundy); }
+.detail a.detail__wa:hover .arrow, .detail a.detail__wa:focus-visible .arrow { transform: translateX(6px); }
 .detail__places { margin: 0; font-size: 15px; letter-spacing: .28em; text-transform: uppercase; padding-top: .3em; }
 .detail__places span + span { margin-left: 1.6em; }
 
