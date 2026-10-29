@@ -180,4 +180,40 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://lkarchitecture.fr/ru/architecture-interieur-pays-de-gex"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/architecture-interieur-pays-de-gex"/>
   </url>
+  <url>
+    <loc>https://lkarchitecture.fr/architecture-interieur-annecy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lkarchitecture.fr/de/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lkarchitecture.fr/ru/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/en/architecture-interieur-annecy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lkarchitecture.fr/de/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lkarchitecture.fr/ru/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/de/architecture-interieur-annecy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lkarchitecture.fr/de/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lkarchitecture.fr/ru/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/ru/architecture-interieur-annecy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lkarchitecture.fr/de/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lkarchitecture.fr/ru/architecture-interieur-annecy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
+  </url>
 </urlset>
