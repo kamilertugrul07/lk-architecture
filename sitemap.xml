@@ -84,4 +84,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/architecture-interieur-annecy"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/architecture-interieur-annecy"/>
   </url>
+  <url>
+    <loc>https://lkarchitecture.fr/a-propos</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/a-propos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/a-propos"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/a-propos"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/en/a-propos</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/a-propos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/a-propos"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/a-propos"/>
+  </url>
 </urlset>
