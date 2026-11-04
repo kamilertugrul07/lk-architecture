@@ -195,7 +195,7 @@ html.is-entering .doors {
 .nav a[aria-current="page"] { color: var(--burgundy); }
 .nav__line { width: 56px; height: 1px; background: var(--ink); opacity: .7; }
 
-/* Language switcher: FR · EN · DE · RU */
+/* Language switcher: FR · EN */
 .site-header .nav { margin-left: auto; }
 .lang { display: flex; align-items: center; gap: 4px; }
 .site-header .lang { margin-left: clamp(24px, 2.6vw, 40px); }
