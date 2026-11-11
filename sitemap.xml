@@ -99,17 +99,17 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/a-propos"/>
   </url>
   <url>
-    <loc>https://lkarchitecture.fr/etapes</loc>
+    <loc>https://lkarchitecture.fr/services</loc>
     <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/etapes"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/etapes"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/etapes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/services"/>
   </url>
   <url>
-    <loc>https://lkarchitecture.fr/en/etapes</loc>
+    <loc>https://lkarchitecture.fr/en/services</loc>
     <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/etapes"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/etapes"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/etapes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/services"/>
   </url>
 </urlset>
