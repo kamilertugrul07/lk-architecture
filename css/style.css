@@ -505,7 +505,7 @@ html.is-entering .doors {
 
 .stages { display: grid; grid-template-columns: 1fr; gap: 48px; padding-bottom: clamp(48px, 5vw, 72px); }
 .stages__media { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.stages__figure { margin: 0; overflow: hidden; }
+.stages__figure { margin: 0; overflow: hidden; background: #D9BFA3; } /* warm tone while the photo arrives */
 .stages__figure img { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; }
 @media (min-width: 900px) {
   .stages { grid-template-columns: 4fr 7fr; gap: clamp(32px, 4vw, 64px); align-items: start; }

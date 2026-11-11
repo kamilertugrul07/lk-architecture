@@ -25,6 +25,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="preload" as="image" type="image/webp" imagesizes="(min-width: 900px) 34vw, 50vw" imagesrcset="img/etapes-vase-640.webp 640w, img/etapes-vase.webp 1200w">
   <link rel="stylesheet" href="css/style.css">
   <script>(function(r){if(!matchMedia('(prefers-reduced-motion: reduce)').matches){r.classList.add('js-reveal');try{var t=sessionStorage.getItem('lk-transition');if(t)r.classList.add(t==='door'&&r.getAttribute('data-doors')!==null?'is-entering':'is-arriving')}catch(e){}}setTimeout(function(){r.classList.remove('js-reveal','is-entering')},3500)})(document.documentElement)</script>
 </head>
@@ -51,17 +52,17 @@
 
     <div class="stages">
       <div class="stages__media">
-        <figure class="stages__figure stages__figure--tall" data-reveal="image">
+        <figure class="stages__figure stages__figure--tall">
           <picture>
             <source type="image/webp" sizes="(min-width: 900px) 34vw, 50vw" srcset="img/etapes-vase-640.webp 640w, img/etapes-vase.webp 1200w">
-            <img src="img/etapes-vase.jpg" width="1200" height="2214"
+            <img src="img/etapes-vase.jpg" width="1200" height="2214" fetchpriority="high"
                  alt="Branches de baies rouges dans un vase posé sur une table en marbre sombre, près d’un fauteuil en velours bordeaux.">
           </picture>
         </figure>
-        <figure class="stages__figure" data-reveal="image">
+        <figure class="stages__figure">
           <picture>
             <source type="image/webp" sizes="(min-width: 900px) 34vw, 50vw" srcset="img/etapes-chambre-640.webp 640w, img/etapes-chambre.webp 1200w">
-            <img src="img/etapes-chambre.jpg" width="1200" height="1142" loading="lazy"
+            <img src="img/etapes-chambre.jpg" width="1200" height="1142" decoding="async"
                  alt="Chambre aux tons crème : tête de lit capitonnée, coussins bordeaux, applique en laiton et hortensias roses sur la table de chevet.">
           </picture>
         </figure>
