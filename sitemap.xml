@@ -98,4 +98,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/a-propos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/a-propos"/>
   </url>
+  <url>
+    <loc>https://lkarchitecture.fr/etapes</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/etapes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/etapes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/etapes"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/en/etapes</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/etapes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/etapes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/etapes"/>
+  </url>
 </urlset>
