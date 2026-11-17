@@ -80,8 +80,8 @@ html.is-arriving .veil { opacity: 1; }
 }
 .hero__stage {
   position: absolute; left: 50%; top: 50%;
-  aspect-ratio: 1672 / 941;
-  width: max(100vw, 100svh * 1672 / 941);
+  aspect-ratio: 4096 / 2313;
+  width: max(100vw, 100svh * 4096 / 2313);
   transform: translate(-50%, -50%);
 }
 .hero__media, .hero__media img { position: absolute; inset: 0; width: 100%; height: 100%; }
@@ -420,7 +420,7 @@ html.is-arriving .veil { opacity: 1; }
 .p-intro .p-back { margin-bottom: clamp(20px, 3vw, 40px); }
 .p-intro--list { padding-bottom: clamp(32px, 3.4vw, 56px); }
 
-.figure-wide--project img { aspect-ratio: 1672 / 941; }
+.figure-wide--project img { aspect-ratio: 4096 / 2313; }
 @media (max-width: 700px) {
   .figure-wide--project img { aspect-ratio: 4 / 3; object-position: 55% 50%; }
 }
@@ -428,7 +428,7 @@ html.is-arriving .veil { opacity: 1; }
 .projects { list-style: none; margin: 0; padding: 0 0 clamp(56px, 7vw, 104px); display: grid; grid-template-columns: 1fr; gap: clamp(40px, 5vw, 72px) clamp(20px, 2.4vw, 32px); }
 .project-card a { display: block; }
 .project-card__media { margin: 0; overflow: hidden; background: var(--ivory-deep); }
-.project-card__media img { width: 100%; aspect-ratio: 1672 / 941; object-fit: cover; transition: transform 1.4s var(--ease); }
+.project-card__media img { width: 100%; aspect-ratio: 4096 / 2313; object-fit: cover; transition: transform 1.4s var(--ease); }
 .project-card a:hover .project-card__media img, .project-card a:focus-visible .project-card__media img { transform: scale(1.025); }
 .project-card__text { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding-top: 24px; }
 .project-card__meta { margin: 0; color: var(--ink-soft); }
