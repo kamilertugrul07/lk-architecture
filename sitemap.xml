@@ -112,4 +112,32 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/services"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/services"/>
   </url>
+  <url>
+    <loc>https://lkarchitecture.fr/portfolio</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/portfolio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/portfolio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/portfolio"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/en/portfolio</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/portfolio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/portfolio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/portfolio"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/projet-a-study-in-balance</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/projet-a-study-in-balance"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/projet-a-study-in-balance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/projet-a-study-in-balance"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/en/projet-a-study-in-balance</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/projet-a-study-in-balance"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/projet-a-study-in-balance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/projet-a-study-in-balance"/>
+  </url>
 </urlset>
