@@ -441,20 +441,18 @@ html.is-arriving .veil { opacity: 1; }
 .projects { list-style: none; margin: 0; padding: 0 0 clamp(56px, 7vw, 104px); display: grid; grid-template-columns: 1fr; gap: clamp(40px, 5vw, 72px) clamp(20px, 2.4vw, 32px); }
 .project-card a { display: block; }
 .project-card__media { margin: 0; overflow: hidden; background: var(--ivory-deep); }
-.project-card__media img { width: 100%; aspect-ratio: 4096 / 2313; object-fit: cover; transition: transform 1.4s var(--ease); }
+.project-card__media img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; transition: transform 1.4s var(--ease); }
 .project-card a:hover .project-card__media img, .project-card a:focus-visible .project-card__media img { transform: scale(1.025); }
 .project-card__text { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding-top: 24px; }
 .project-card__meta { margin: 0; color: var(--ink-soft); }
-.project-card h2 { margin: 0; font-weight: 400; color: var(--burgundy); font-size: clamp(32px, 3.2vw, 48px); line-height: 1.1; }
+.project-card h2 { margin: 0; font-weight: 400; color: var(--burgundy); font-size: clamp(28px, 2.4vw, 36px); line-height: 1.1; }
 .project-card h2 em { font-style: italic; }
 .project-card__more { margin-top: 6px; font-size: 13px; letter-spacing: .28em; text-transform: uppercase; color: var(--burgundy); background: linear-gradient(var(--burgundy), var(--burgundy)) 0 100% / 0 1px no-repeat; padding-bottom: 4px; transition: background-size .6s var(--ease); }
 .project-card a:hover .project-card__more, .project-card a:focus-visible .project-card__more { background-size: 100% 1px; }
 .project-card a:hover .arrow, .project-card a:focus-visible .arrow { transform: translateX(6px); }
-@media (min-width: 900px) {
-  .projects { grid-template-columns: 1fr 1fr; }
-  .project-card:first-child { grid-column: 1 / -1; }
-  .project-card:not(:first-child) .project-card__media img { aspect-ratio: 4 / 3; }
-}
+/* three projects to a row on desktop, two on tablet, one on phones */
+@media (min-width: 640px) { .projects { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1000px) { .projects { grid-template-columns: repeat(3, 1fr); } }
 
 .case { display: grid; grid-template-columns: 1fr; gap: 20px; padding-block: clamp(40px, 5vw, 80px); }
 .case__title { margin: 0; font-weight: 400; color: var(--burgundy); font-size: clamp(32px, 3.2vw, 48px); line-height: 1.1; }
