@@ -140,4 +140,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/projet-a-study-in-balance"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/projet-a-study-in-balance"/>
   </url>
+  <url>
+    <loc>https://lkarchitecture.fr/projet-a-study-in-light-and-balance</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/projet-a-study-in-light-and-balance"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/projet-a-study-in-light-and-balance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/projet-a-study-in-light-and-balance"/>
+  </url>
+  <url>
+    <loc>https://lkarchitecture.fr/en/projet-a-study-in-light-and-balance</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lkarchitecture.fr/projet-a-study-in-light-and-balance"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lkarchitecture.fr/en/projet-a-study-in-light-and-balance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lkarchitecture.fr/projet-a-study-in-light-and-balance"/>
+  </url>
 </urlset>

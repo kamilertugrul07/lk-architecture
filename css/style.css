@@ -433,6 +433,8 @@ html.is-arriving .veil { opacity: 1; }
 .p-intro .p-back { margin-bottom: clamp(20px, 3vw, 40px); }
 .p-intro--list { padding-bottom: clamp(32px, 3.4vw, 56px); }
 
+.figure-note { margin: 12px 0 0; color: var(--ink-soft); font-size: 12px; letter-spacing: .24em; text-transform: uppercase; }
+@media (max-width: 700px) { .figure-wide .figure-note { padding-inline: var(--gutter); } }
 .figure-wide--project img { aspect-ratio: 4096 / 2313; }
 @media (max-width: 700px) {
   .figure-wide--project img { aspect-ratio: 4 / 3; object-position: 55% 50%; }
